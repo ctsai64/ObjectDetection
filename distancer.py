@@ -1,5 +1,5 @@
 # Distance of cup from camera -2 centimeters?
-# By: Cymberly Tsai 12/27/2021
+# 12/27/2021
 # most accurate when cup in center of image
 
 import math
