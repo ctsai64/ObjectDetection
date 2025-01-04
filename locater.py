@@ -1,5 +1,5 @@
 # Locate cup in image
-# By: Cymberly Tsai 12/28/2021
+# 12/28/2021
 
 import sys
 sys.path.append("..")
