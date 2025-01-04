@@ -1,5 +1,5 @@
 # YOLO cup detection
-# By: Cymberly Tsai 12/26/2021
+# 12/26/2021
 
 import cv2
 import numpy as np
