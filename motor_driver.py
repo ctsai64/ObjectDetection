@@ -1,3 +1,4 @@
+# 1/30/2022
 # 5v power pin and 9v external power, 4 output pins, 4 gnd pins
 import RPi.GPIO as GPIO
 from time import sleep
